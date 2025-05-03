@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐶 Python OOP Challenge: Build Your Own Digital Pet
 
 Welcome to this week's Python challenge! 🎉
@@ -61,3 +62,6 @@ Think about edge cases like trying to play when energy is 0.
 Submission format: clone/fork this repo
 
 Bonus points for creativity (custom actions, emojis, pet types, etc.)
+=======
+# OPP-CHALLENGER
+>>>>>>> a948ecb3778ccf46f30e915725c560d105c6abd1
